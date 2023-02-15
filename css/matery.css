@@ -34,7 +34,7 @@
 }
 
 body {
-    background-color: #eaeaea;
+    background-color: #e4e1e1;
     margin: 0;
     color: #34495e;
     overflow-x: hidden;
@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #00FF00 0%, #00FF00 100%);
 }
 
 .text-color {
@@ -593,6 +593,7 @@ header .go-back i {
     font-weight: 400;
 }
 
+/* 动态切换背景颜色 */
 @-webkit-keyframes rainbow {
 
     0%,
